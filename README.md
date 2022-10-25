@@ -9,7 +9,7 @@
 
 - 🦾 I’m looking for help with **everything that needs organization and push.**
 
-- 👩‍🦳 I'm recently worked as [**a teacher** of Comparative Literature and Literature Theory **at the Universitat Autónoma de Barcelona**]
+- 👩‍🦳 I'm recently worked as **a teacher** of Comparative Literature and Literature Theory **at the Universitat Autónoma de Barcelona**
 
 - ⚡ Fun fact (define this. 🖖)
 
