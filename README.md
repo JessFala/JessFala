@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jéssica</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
-- 👩‍💻 I’m currently studying **BackEnd NodeJs bootcamp a** (@IT-Academy-BCN)
+- 👩‍💻 I’m currently studying **BackEnd NodeJs bootcamp a** @IT-Academy-BCN
 
 - 😄 Pronouns **She, Her**
 
