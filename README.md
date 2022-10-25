@@ -9,9 +9,9 @@
 
 - 🦾 I’m looking for help with **everything that needs organization and push.**
 
-- 👩‍🦳 I'm recently worked as [a teacher of Comparative Literature and Literature Theory at the UAB](a teacher of Comparative Literature and Literature Theory at the UAB)
+- 👩‍🦳 I'm recently worked as [**a teacher** of Comparative Literature and Literature Theory **at the Universitat Autónoma de Barcelona**]
 
-- ⚡ Fun fact [define this. 🖖](define this. 🖖)
+- ⚡ Fun fact (define this. 🖖)
 
 - ❓❓💬❓❓ Ask me about **Literature, TV series, reviews about the Internet, feminism, and something about backEnd.**
 
