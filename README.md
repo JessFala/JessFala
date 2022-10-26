@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=5031&pause=1019&color=F79213&background=A71A95EA&center=true&vCenter=true&width=813&height=95&lines=Hi+%F0%9F%91%8B%2C+I'm+J%C3%A9ssica;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=5031&pause=1019&color=FFA614EA&background=B1236BEA&center=true&vCenter=true&width=813&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+J%C3%A9ssica;Welcome+to+my+profile" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
 - 👩‍💻 I’m currently studying **BackEnd NodeJs bootcamp** at @IT-Academy-BCN
