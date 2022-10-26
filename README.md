@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jéssica</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7340F&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+J%C3%A9ssica;Welcome+to+my+profile" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
 - 👩‍💻 I’m currently studying **BackEnd NodeJs bootcamp** at @IT-Academy-BCN
