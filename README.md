@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=5016&pause=1010&color=F7340F&center=true&vCenter=true&width=441&lines=Hi+%F0%9F%91%8B%2C+I'm+J%C3%A9ssica;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=5031&pause=1019&color=F79213&background=A71A95EA&center=true&vCenter=true&width=591&height=95&lines=Hi+%F0%9F%91%8B%2C+I'm+J%C3%A9ssica;Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
