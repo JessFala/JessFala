@@ -8,7 +8,7 @@
 
 - ♀️ ⚧️ I’m looking to collaborate on **some interesting feminist and gender perspective project.**
 
-- 🦾 I’m looking for help with **everything that needs organization and push.**
+- 🦾 They ara looking for me to help with **everything that needs organization and push.**
 
 - 👩‍🦳 I'm recently worked as **a teacher** of Comparative Literature and Literature Theory **at the Universitat Autónoma de Barcelona (UAB).**
 
